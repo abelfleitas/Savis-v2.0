@@ -8,3 +8,4 @@ Savis v2.0 es una herramienta que integra técnicas de visualización para el al
 
 <br/><br/>
 <a href="https://ibb.co/P1xtCkT"><img src="https://i.ibb.co/mhJSzpv/Savis.png" width="400" alt="Savis" border="0"></a>
+<a href="https://ibb.co/P1xtCkT"><img src="https://i.ibb.co/mhJSzpv/Savis.png" alt="Savis" border="0"></a>
