@@ -7,5 +7,4 @@ Savis v2.0 es una herramienta que integra técnicas de visualización para el al
 <a href="https://drive.google.com/file/d/1ujyuQiwZPwJMSjpP-x_BYXVSr-4ZmBrB/view?usp=sharing">berlin52.tsp</a>
 
 <br/><br/>
-<a href="https://ibb.co/SvtGZzH"><img src="https://i.ibb.co/SvtGZzH/Savis.png" alt="Savis" border="0" /></a>
-<a href="https://ibb.co/SvtGZzH"><img src="https://i.ibb.co/LpxHs3B/Savis.png" alt="Savis" border="0" /></a>
+[url=https://ibb.co/SvtGZzH][img]https://i.ibb.co/SvtGZzH/Savis.png[/img][/url]
